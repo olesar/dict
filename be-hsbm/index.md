@@ -69,7 +69,7 @@ Volume index / Указатель томов
 
 * т. 33 (2013): Струна – Треснутися <a href="https://files.knihi.com/Knihi/Slounik/HSBM.zip/HSBM_33.pdf#page=2">pdf</a> <!-- <a href="">word index</a> -->
 
-* т. 34 (2014): Тресолнечный – Умопомятенье <a href="https://files.knihi.com/Knihi/Slounik/HSBM.zip/HSBM_34.pdf">pdf</a> <a href="wordindex/20u.md">word index</a>  
+* т. 34 (2014): Тресолнечный – Умопомятенье <a href="https://files.knihi.com/Knihi/Slounik/HSBM.zip/HSBM_34.pdf">pdf</a> <a href="wordindex/20u.html">word index</a>  
 
 * т. 35 (2015): Уморати – Фолдровый <a href="https://files.knihi.com/Knihi/Slounik/HSBM.zip/HSBM_35.pdf">pdf</a> <!-- <a href="">word index</a> -->
 
