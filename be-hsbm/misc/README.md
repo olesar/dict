@@ -22,8 +22,6 @@
 
 * Булыка, Аляксандар. Лексічныя запазычанні ў белурскай мове XIV-XVIII стст. Мн.: Навука i тэхніка, 1980. [pdf](https://knihi.com/Alaksandar_Bulyka/Leksicnyja_zapazycanni_u_bielurskaj_movie_XIV-XVIII_stst.html)
 
-* Филин Ф.П. Происхождение русского, белорусского и украинского языков. Историко-диалектологический очерк, Москва, Издательство КомКнига, 2006, 656 с. 
-
 * Станкевич Я. Гісторыя беларускага языка. — Вільня, 1939. [djvu](https://knihi.com/Jan_Stankievic/Historyja_bielaruskaha_jazyka.html)  
 
 * Воўк-Левановіч, Іосіф. Лекцыі па гісторыі беларускай мовы. [djvu](https://knihi.com/Iosif_Vouk-Levanovic/Lekcyi_pa_historyi_bielaruskaj_movy.html#)  
