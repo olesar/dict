@@ -17,7 +17,7 @@ Volume index / Указатель томов
 Випуск 12 (2005): Зливати-Зять <a href="https://chtyvo.org.ua/authors/Slovnyk_ukrainskoi_movy_XVI_-_pershoi_polovyn/Vypusk_12_Zlyvaty-Ziat.pdf">pdf</a>  
 Випуск 13 (2006): И-І <a href="https://chtyvo.org.ua/authors/Slovnyk_ukrainskoi_movy_XVI_-_pershoi_polovyn/Vypusk_13_Y-I.pdf">pdf</a>  
 Випуск 14 (2008): К—Конъюрация <a href="https://chtyvo.org.ua/authors/Slovnyk_ukrainskoi_movy_XVI_-_pershoi_polovyn/Vypusk_14_KKoniuratsyia.pdf">pdf</a>  
-Випуск 15 (2009):   
+Випуск 15 (2009): Конь—ЛегковѢрны <a href="https://ia801403.us.archive.org/18/items/sum-28-15/SUM-28_15.pdf">pdf</a>
 Випуск 16 (2013): Легкомыслность-Лячи <a href="https://chtyvo.org.ua/authors/Slovnyk_ukrainskoi_movy_XVI_-_pershoi_polovyn/Vypusk_16_Lehkomslnost-Liachy.pdf">pdf</a>  
 Випуск 17 (2017): М – Моавитѧнка <a href="">pdf</a>  
 
